@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dota2League</string>
+    <string name="league_name">League Name</string>
+    <string name="league_tier">Tier</string>
+    <string name="league_tier_label">Tier:</string>
+    <string name="league_banner">Banner</string>
+    <string name="league_ticket">Ticket</string>
+
+</resources>
